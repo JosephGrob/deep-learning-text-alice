@@ -56,7 +56,7 @@ Le code couvre :
 
 Tu peux installer les dépendances via :
 
-```bash
+
 pip install -r requirements.txt
 
 Ou à la main :
